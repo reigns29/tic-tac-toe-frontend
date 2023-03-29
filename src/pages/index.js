@@ -1,6 +1,6 @@
 import Home from "./Home"
 import GameList from "./GameList"
-import TicTakToe from "./TicTakToe"
+import TicTacToe from "./TicTacToe"
 import Error404 from "./Error404"
 
-export { Home, TicTakToe, GameList, Error404 }
+export { Home, TicTacToe, GameList, Error404 }
